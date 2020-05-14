@@ -1,4 +1,4 @@
-# Light Board
+# LightBoard
 
 Fun visual creations using physical fabrication, micro controllers, and a lot of LEDs
 
