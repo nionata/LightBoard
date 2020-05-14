@@ -18,13 +18,13 @@ Fun visual creations using physical fabrication, micro controllers, and a lot of
 
 ### Build
 
-<img src="/Users/nicholasionata/Dev/Arduino/Light Board/v1/assets/build_img_1.jpg" />
+<img src="/v1/assets/build_img_1.jpg" />
 
-<img src="/Users/nicholasionata/Dev/Arduino/Light Board/v1/assets/build_img_2.jpg" />
+<img src="/v1/assets/build_img_2.jpg" />
 
-<img src="/Users/nicholasionata/Dev/Arduino/Light Board/v1/assets/build_img_3.jpg" />
+<img src="/v1/assets/build_img_3.jpg" />
 
-<img src="/Users/nicholasionata/Dev/Arduino/Light Board/v1/assets/build_gif_1.gif" style="zoom:50%;" />
+<img src="/v1/assets/build_gif_1.gif" style="zoom:50%;" />
 
 <br/>
 
@@ -45,5 +45,3 @@ Fun visual creations using physical fabrication, micro controllers, and a lot of
 ### Build
 
 Coming soon...
-
-<br/>
